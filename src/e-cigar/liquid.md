@@ -21,3 +21,20 @@
 한때 무난하게 단 맛이 나서 위넥스 m1으로 꽤 사놓고 피웠다만.
 
 이제는 질린다...
+
+# 크로닉 쥬스 Black Currant
+
+# 오지구 고드름 콜라
+
+# 오지구 고드름 키위
+
+# 스톰 리퀴드 X on the beach
+
+# 펠릭스 Double lime (original)
+
+# 머스트 Pink lemonade
+
+# 머스트 Plum
+
+# 이그니스 S-Malibu
+
