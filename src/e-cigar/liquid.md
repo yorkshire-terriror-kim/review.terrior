@@ -1,6 +1,6 @@
 # 액상 리뷰
 
-# Novo Liquid (데저트)
+## Novo Liquid (데저트)
 
 [Waffermon](https://www.pgliquid.com/liquid/2324)을 엄청 기대하고 샀다가 목긁음에 엄청 데여서 디저트류는 멀리 하다가...
 
@@ -12,7 +12,7 @@
 
 오프라인 매장은 액상값이 비싸도 제대로된 큐레이팅 때문에 가는건데... 아쉽...
 
-# 크로닉 쥬스 redbulleh
+## 크로닉 쥬스 redbulleh
 
 분명 컨셉대로 에너지 드링크 맛이긴 한데...
 
@@ -22,19 +22,19 @@
 
 이제는 질린다...
 
-# 크로닉 쥬스 Black Currant
+## 크로닉 쥬스 Black Currant
 
-# 오지구 고드름 콜라
+## 오지구 고드름 콜라
 
-# 오지구 고드름 키위
+## 오지구 고드름 키위
 
-# 스톰 리퀴드 X on the beach
+## 스톰 리퀴드 X on the beach
 
-# 펠릭스 Double lime (original)
+## 펠릭스 Double lime (original)
 
-# 머스트 Pink lemonade
+## 머스트 Pink lemonade
 
-# 머스트 Plum
+## 머스트 Plum
 
-# 이그니스 S-Malibu
+## 이그니스 S-Malibu
 
