@@ -1,6 +1,7 @@
 # 리스트
 
 - [기기 리뷰](./e-cigar/machine.md)
+- [일회용 기기 리뷰](./e-cigar/oneuse.md)
 - [액상 리뷰](./e-cigar/liquid.md)
 
 # 기존 전자담배 리뷰의 아쉬웠던 점
